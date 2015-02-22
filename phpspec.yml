@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: PHPKonf
+        psr4_prefix: PHPKonf
+        src_path: app
